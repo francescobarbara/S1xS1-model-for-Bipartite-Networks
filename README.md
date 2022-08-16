@@ -6,4 +6,4 @@ coefficients) and their corresponding mathematical definitions. We
 then review a powerful latent-geometry framework specific to bipartite networks and proceed to show, through numerical simulations,
 that this model maintains several of the aforementioned properties
 and give original insights on its limitations. Finally, we propose a
-novel Montecarlo-based approach for the inference of the hidden parameters underlying the latent geometry
+novel Montecarlo-based approach for the inference of the hidden parameters underlying the latent geometry
